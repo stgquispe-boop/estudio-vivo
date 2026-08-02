@@ -1,0 +1,13 @@
+{
+  "name": "estudio-vivo-render",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Servidor autonomo de Estudio Vivo para Render.",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
